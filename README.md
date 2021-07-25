@@ -1,3 +1,1 @@
-# jogo-Extra---Jokenpo
-Jogo -Jokenpô
-Feito no curso DEV samuray
+Jogo -Jokenpô Feito no curso DEV samuray, usando Html e CSS.
